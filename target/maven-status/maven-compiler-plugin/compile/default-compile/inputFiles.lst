@@ -1,0 +1,11 @@
+D:\IPN\7mo\WEB CLIENT AND BACKEND DEVELOPMENT FRAMEWORKS\securitydb\src\main\java\com\upiiz\securitydb\config\SecurityConfig.java
+D:\IPN\7mo\WEB CLIENT AND BACKEND DEVELOPMENT FRAMEWORKS\securitydb\src\main\java\com\upiiz\securitydb\controllers\FacturasController.java
+D:\IPN\7mo\WEB CLIENT AND BACKEND DEVELOPMENT FRAMEWORKS\securitydb\src\main\java\com\upiiz\securitydb\entities\PermissionEntity.java
+D:\IPN\7mo\WEB CLIENT AND BACKEND DEVELOPMENT FRAMEWORKS\securitydb\src\main\java\com\upiiz\securitydb\entities\RolEntity.java
+D:\IPN\7mo\WEB CLIENT AND BACKEND DEVELOPMENT FRAMEWORKS\securitydb\src\main\java\com\upiiz\securitydb\entities\RolEnum.java
+D:\IPN\7mo\WEB CLIENT AND BACKEND DEVELOPMENT FRAMEWORKS\securitydb\src\main\java\com\upiiz\securitydb\entities\UserEntity.java
+D:\IPN\7mo\WEB CLIENT AND BACKEND DEVELOPMENT FRAMEWORKS\securitydb\src\main\java\com\upiiz\securitydb\repository\PermissionRepository.java
+D:\IPN\7mo\WEB CLIENT AND BACKEND DEVELOPMENT FRAMEWORKS\securitydb\src\main\java\com\upiiz\securitydb\repository\RoleRepository.java
+D:\IPN\7mo\WEB CLIENT AND BACKEND DEVELOPMENT FRAMEWORKS\securitydb\src\main\java\com\upiiz\securitydb\repository\UserRepository.java
+D:\IPN\7mo\WEB CLIENT AND BACKEND DEVELOPMENT FRAMEWORKS\securitydb\src\main\java\com\upiiz\securitydb\SecuritydbApplication.java
+D:\IPN\7mo\WEB CLIENT AND BACKEND DEVELOPMENT FRAMEWORKS\securitydb\src\main\java\com\upiiz\securitydb\service\UserDetailServiceImpl.java
